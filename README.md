@@ -7,5 +7,6 @@ The project will examine the revenue generative by the latest AI chip made by Nv
 Computer Skill: Python, PyTorch, NumPy and Matplotlib
 
 References:
+
 1-	Nvidia  Q2 2025 Earnings: The Engine of the Generative AI Revolution by Maeva Ghonda (Market Briefs – LinkedIn)
 2-	Nvidia Market Value Data (MarketWatch)
