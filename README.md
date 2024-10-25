@@ -12,6 +12,4 @@ References:
 
 2-	Nvidia Market Value Data (MarketWatch)
 
-License for the software of this repository:
 
-It is a MIT License. Please read the instruction in the license document of this repository.
