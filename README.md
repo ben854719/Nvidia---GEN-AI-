@@ -11,3 +11,7 @@ References:
 1-	Nvidia  Q2 2025 Earnings: The Engine of the Generative AI Revolution by Maeva Ghonda (Market Briefs – LinkedIn).
 
 2-	Nvidia Market Value Data (MarketWatch)
+
+License for the software of this repository:
+
+It is a MIT License. Please read the instruction in the license document of this repository.
