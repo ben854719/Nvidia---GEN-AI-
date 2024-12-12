@@ -1,4 +1,4 @@
-Project: Nvidia GenAO (finance)
+Project: Nvidia GenAI (finance)
 
 Summary:
 
